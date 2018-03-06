@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zharphyn/famous_people/issues"
   },
-  "homepage": "https://github.com/Zharphyn/famous_people#readme"
+  "homepage": "https://github.com/Zharphyn/famous_people#readme",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
 }
